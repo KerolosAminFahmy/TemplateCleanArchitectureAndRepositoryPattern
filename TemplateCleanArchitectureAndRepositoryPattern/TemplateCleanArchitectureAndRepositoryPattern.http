@@ -1,0 +1,6 @@
+@TemplateCleanArchitectureAndRepositoryPattern_HostAddress = http://localhost:5017
+
+GET {{TemplateCleanArchitectureAndRepositoryPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
